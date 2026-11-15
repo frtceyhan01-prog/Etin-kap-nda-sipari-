@@ -1,0 +1,9 @@
+ETİN KAPINDA ÇEVRİMDIŞI SİPARİŞ UYGULAMASI
+
+Bu klasördeki dosyalar bir web sitesine birlikte yüklenmelidir (HTTPS).
+iPhone'da Safari üzerinden yayınlanan adresi açın, Paylaş > Ana Ekrana Ekle.
+Uygulamayı internet bağlıyken bir kez açın; sonrasında önbelleğe alınan uygulama çevrimdışı açılabilir.
+
+DİKKAT: Bu ZIP tek başına iPhone'a kurulan bir uygulama değildir.
+Yayınlama ve Ana Ekrana Ekle adımı gereklidir. Siparişler bu cihazda saklanır;
+başka cihazlarla otomatik eşitlenmez. Yedek almayı unutmayın.
